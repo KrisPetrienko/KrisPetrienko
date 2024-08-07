@@ -18,19 +18,18 @@
 </p>
 
 ###
+<h3 align="center">👩‍💻  ABOUT ME</h3>
+
+###
+
+<p align="left">I am a beginning FRONTEND DEVELOPER from Ukraine! A few years ago I moved to Finland and decided to make my dream come true! I am ready to conquer the world of IT and reach incredible heights) I'm ready to experiment and I really want to feel like a team player)</p>
+
+###
 
 <p align="center">
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=KrisPetrienko" alt="https://github.com/KrisPetrienko" />
 </p>
-
-###
-
-<h3 align="left">👩‍💻  About me:</h3>
-
-###
-
-<p align="left">I am a beginning FRONTEND DEVELOPER from Ukraine! A few years ago I moved to Finland and decided to make my dream come true! I am ready to conquer the world of IT and reach incredible heights) I'm ready to experiment and I really want to feel like a team player)</p>
 
 ###
 
@@ -41,6 +40,7 @@
 ###
 
 <h3 align="left">🛠 Technologies and tools that I use::</h3>
+<br>
 
 ###
 
@@ -65,6 +65,7 @@
   <img width="12" />
 
 </div>
+<br>
 
 ###
 
