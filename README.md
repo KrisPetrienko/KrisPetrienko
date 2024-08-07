@@ -1,14 +1,22 @@
 <br clear="both">
 
-<div align="center">
-  <img height="200" width="200" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif"  />
-  <img height="200" width="200" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif"  />
-  <img height="200" width="200" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif"  />
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Kris = {
+  direction: "Frontend",
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Angular, VS],
+  
+ challenge: "I am doing the #100DaysOfCode challenge"
+}
+```
+
 
 ###
 
-<h1 align="center">Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm KRISTINA</h1>
+<h1 align="center">Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm KRISTINA</h1>
 
 ###
 
