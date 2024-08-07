@@ -1,9 +1,9 @@
 <br clear="both">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let's start...  
 
 ```javascript
-const Kris = {
+const kris = {
   direction: "Frontend",
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
@@ -16,7 +16,7 @@ const Kris = {
 
 ###
 
-<h1 align="center">Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm KRISTINA</h1>
+<h1 align="center">Hi, there! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I'm KRISTINA:)</h1>
 
 ###
 
