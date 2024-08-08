@@ -46,6 +46,7 @@ const kris = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
+
 ###
 
 <h3 align="left">🛠 Technologies and tools that I use::</h3>
@@ -94,7 +95,7 @@ const kris = {
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English       | B1                                                                        |
+| English       | B1+                                                                        |
 | Finish        | A2.1                                                                      |
 | Russian       | Native language                                                           |
 | Ukrainian     | Native language                                                           |
